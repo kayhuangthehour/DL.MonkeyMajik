@@ -1,1 +1,1 @@
-# DL.MonkeyMajik
+# Deep Learning ai homework by Kay
